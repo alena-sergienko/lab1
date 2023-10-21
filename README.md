@@ -8,3 +8,4 @@
 1. **жирный текст**
 2. два
 3. ~~зачеркнутый текст~~
+![Пример изображения](https://img4.goodfon.com/original/1152x864/2/21/github-git-octocat-programming-code-it-logo.jpg)
